@@ -30,8 +30,7 @@ Project Credit
 
 This is a guided learning project based on a tutorial by Rishabh Mishra. Created for educational and skill-development purposes.
 
-![Dashboard Preview]
-(Screenshot 2026-11-05 013118.png)
+![Dashboard Preview](Screenshot.png)
 
 Project Status
 
